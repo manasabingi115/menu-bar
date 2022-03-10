@@ -22,3 +22,29 @@ $(document).ready(function () {
     }
   });
 });
+
+// var item = document.getElementsByClassName("list-items");
+// // console.log(item);
+// // console.log(item[1]);
+// // item[1].style.textDecoration = "underline";
+// item[1].textContent = "hi";
+// // item[1].backgroundColor="yellow";
+// // for (var i = 1; i <= item.length; i++) {
+// //   item[i].style.textDecoration = "underline";
+// // }
+// // console.log(item[1].value);
+
+// var head = document.getElementById("app");
+// // console.log(head);
+// head.style.backgroundColor = "red";
+// var body = document.getElementsByTagName("body");
+// // console.log(body);
+// var marker = document.getElementById("unLine");
+// // console.log(marker);
+// // console.log(marker[1]);
+
+// var input = document.getElementsByClassName("inp");
+// // console.log(input);
+// input.innerHTML = "number";
+// var submit = document.querySelector('input[type]');
+// submit.innerHTML="hi";
